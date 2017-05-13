@@ -1,0 +1,805 @@
+2017-05-13 09:25:12.459  INFO 14200 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 14200 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:25:12.459  INFO 14200 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:25:12.475  INFO 14200 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c671d7f: startup date [Sat May 13 09:25:12 CEST 2017]; root of context hierarchy
+2017-05-13 09:25:12.787  INFO 14200 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.515 seconds (JVM running for 0.939)
+2017-05-13 09:25:12.819  INFO 14200 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c671d7f: startup date [Sat May 13 09:25:12 CEST 2017]; root of context hierarchy
+2017-05-13 09:26:43.249  INFO 17240 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 17240 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:26:43.249  INFO 17240 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:26:43.281  INFO 17240 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c671d7f: startup date [Sat May 13 09:26:43 CEST 2017]; root of context hierarchy
+2017-05-13 09:26:43.609  INFO 17240 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.61 seconds (JVM running for 1.032)
+2017-05-13 09:26:43.640  INFO 17240 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c671d7f: startup date [Sat May 13 09:26:43 CEST 2017]; root of context hierarchy
+2017-05-13 09:27:36.179  INFO 12840 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 12840 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:27:36.195  INFO 12840 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 09:27:36.226  INFO 12840 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@42eca56e: startup date [Sat May 13 09:27:36 CEST 2017]; root of context hierarchy
+2017-05-13 09:27:36.585  INFO 12840 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 09:27:36.601  INFO 12840 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.563 seconds (JVM running for 0.837)
+2017-05-13 09:27:36.601  INFO 12840 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@42eca56e: startup date [Sat May 13 09:27:36 CEST 2017]; root of context hierarchy
+2017-05-13 09:27:36.601  INFO 12840 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 09:27:54.278  INFO 11028 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 11028 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:27:54.294  INFO 11028 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 09:27:54.325  INFO 11028 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@42eca56e: startup date [Sat May 13 09:27:54 CEST 2017]; root of context hierarchy
+2017-05-13 09:27:54.700  INFO 11028 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 09:27:54.716  INFO 11028 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.594 seconds (JVM running for 0.836)
+2017-05-13 09:27:54.716  INFO 11028 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@42eca56e: startup date [Sat May 13 09:27:54 CEST 2017]; root of context hierarchy
+2017-05-13 09:27:54.716  INFO 11028 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 09:29:29.773  INFO 3900 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 3900 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:29:29.773  INFO 3900 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:29:29.789  INFO 3900 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c671d7f: startup date [Sat May 13 09:29:29 CEST 2017]; root of context hierarchy
+2017-05-13 09:29:30.086  INFO 3900 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 09:29:30.086  INFO 3900 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.5 seconds (JVM running for 0.94)
+2017-05-13 09:29:30.117  INFO 3900 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c671d7f: startup date [Sat May 13 09:29:29 CEST 2017]; root of context hierarchy
+2017-05-13 09:35:13.475  INFO 14456 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 14456 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:35:13.475  INFO 14456 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:35:13.507  INFO 14456 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:35:13 CEST 2017]; root of context hierarchy
+2017-05-13 09:35:13.804  INFO 14456 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 09:35:13.804  INFO 14456 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 09:35:13.804 ERROR 14456 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) [spring-boot-test-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:117) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:44) [spring-boot-test-autoconfigure-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103) [surefire-booter-2.18.1.jar:2.18.1]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:28) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 33 common frames omitted
+
+2017-05-13 09:35:13.804  INFO 14456 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:35:13 CEST 2017]; root of context hierarchy
+2017-05-13 09:35:13.835  INFO 14456 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 14456 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:35:13.835  INFO 14456 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:35:13.850  INFO 14456 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3f9342d4: startup date [Sat May 13 09:35:13 CEST 2017]; root of context hierarchy
+2017-05-13 09:35:13.944  INFO 14456 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 09:35:13.944  INFO 14456 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 09:35:13.960 ERROR 14456 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) [spring-boot-test-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:47) [spring-boot-test-autoconfigure-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103) [surefire-booter-2.18.1.jar:2.18.1]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:28) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 31 common frames omitted
+
+2017-05-13 09:35:13.960  INFO 14456 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@3f9342d4: startup date [Sat May 13 09:35:13 CEST 2017]; root of context hierarchy
+2017-05-13 09:35:13.960 ERROR 14456 --- [main] o.s.test.context.TestContextManager      : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6366ebe0] to prepare test instance [net.siekiera.Accdb2csvApplicationTests@3bd94634]
+
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:47) ~[spring-boot-test-autoconfigure-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103) [surefire-booter-2.18.1.jar:2.18.1]
+Caused by: java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) ~[spring-boot-test-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	... 25 common frames omitted
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:28) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 31 common frames omitted
+
+2017-05-13 09:36:05.865  INFO 14088 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 14088 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:36:05.865  INFO 14088 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:36:05.880  INFO 14088 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:36:05 CEST 2017]; root of context hierarchy
+2017-05-13 09:36:06.177  INFO 14088 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 09:36:06.177  INFO 14088 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.5 seconds (JVM running for 0.934)
+2017-05-13 09:36:06.193  INFO 14088 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:36:05 CEST 2017]; root of context hierarchy
+2017-05-13 09:36:51.764  INFO 9488 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 9488 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:36:51.764  INFO 9488 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:36:51.779  INFO 9488 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:36:51 CEST 2017]; root of context hierarchy
+2017-05-13 09:36:52.076  INFO 9488 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 09:36:52.076  WARN 9488 --- [main] net.siekiera.CmdLineRunner               : Brak parametr體.
+2017-05-13 09:36:52.092  INFO 9488 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.5 seconds (JVM running for 0.928)
+2017-05-13 09:36:52.108  INFO 9488 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:36:51 CEST 2017]; root of context hierarchy
+2017-05-13 09:41:01.351  INFO 3824 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 3824 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 09:41:01.351  INFO 3824 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 09:41:01.366  INFO 3824 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:41:01 CEST 2017]; root of context hierarchy
+2017-05-13 09:41:01.663  INFO 3824 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 09:41:01.663 ERROR 3824 --- [main] net.siekiera.CmdLineRunner               : Brak parametr體.
+2017-05-13 09:41:01.679  INFO 3824 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.5 seconds (JVM running for 0.959)
+2017-05-13 09:41:01.695  INFO 3824 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 09:41:01 CEST 2017]; root of context hierarchy
+2017-05-13 10:07:34.521  INFO 2708 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 2708 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:07:34.521  INFO 2708 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 10:07:34.536  INFO 2708 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 10:07:34 CEST 2017]; root of context hierarchy
+2017-05-13 10:07:34.833  INFO 2708 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:07:34.833 ERROR 2708 --- [main] net.siekiera.CmdLineRunner               : Brak parametr體.
+2017-05-13 10:07:34.833  INFO 2708 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.515 seconds (JVM running for 0.954)
+2017-05-13 10:07:34.864  INFO 2708 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 10:07:34 CEST 2017]; root of context hierarchy
+2017-05-13 10:08:27.879  INFO 2876 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 2876 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:08:27.879  INFO 2876 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 10:08:27.910  INFO 2876 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:08:27 CEST 2017]; root of context hierarchy
+2017-05-13 10:08:28.285  INFO 2876 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:08:28.285  INFO 2876 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:08:28.285  INFO 2876 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.563 seconds (JVM running for 0.813)
+2017-05-13 10:08:28.285  INFO 2876 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:08:27 CEST 2017]; root of context hierarchy
+2017-05-13 10:08:28.285  INFO 2876 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:10:19.160  INFO 14044 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 14044 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:10:19.160  INFO 14044 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 10:10:19.191  INFO 14044 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:10:19 CEST 2017]; root of context hierarchy
+2017-05-13 10:10:19.567  INFO 14044 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:10:19.567  INFO 14044 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:10:19.567  INFO 14044 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.563 seconds (JVM running for 0.802)
+2017-05-13 10:10:19.582  INFO 14044 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:10:19 CEST 2017]; root of context hierarchy
+2017-05-13 10:10:19.582  INFO 14044 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:10:40.651  INFO 6996 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 6996 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:10:40.651  INFO 6996 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 10:10:40.683  INFO 6996 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:10:40 CEST 2017]; root of context hierarchy
+2017-05-13 10:10:41.058  INFO 6996 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:10:41.073  INFO 6996 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:10:41.073  INFO 6996 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.578 seconds (JVM running for 0.812)
+2017-05-13 10:10:41.073  INFO 6996 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:10:40 CEST 2017]; root of context hierarchy
+2017-05-13 10:10:41.073  INFO 6996 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:12:31.927  INFO 6308 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 6308 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:12:31.927  INFO 6308 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 10:12:31.958  INFO 6308 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:12:31 CEST 2017]; root of context hierarchy
+2017-05-13 10:12:32.302  INFO 6308 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:12:32.302  INFO 6308 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:12:32.317  INFO 6308 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.547 seconds (JVM running for 0.779)
+2017-05-13 10:12:32.317  INFO 6308 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:12:31 CEST 2017]; root of context hierarchy
+2017-05-13 10:12:32.317  INFO 6308 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:13:23.339  INFO 15808 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 15808 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:13:23.339  INFO 15808 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 10:13:23.370  INFO 15808 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:13:23 CEST 2017]; root of context hierarchy
+2017-05-13 10:13:23.761  INFO 15808 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:13:23.777  INFO 15808 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:13:23.777  INFO 15808 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.594 seconds (JVM running for 0.822)
+2017-05-13 10:13:23.777  INFO 15808 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:13:23 CEST 2017]; root of context hierarchy
+2017-05-13 10:13:23.777  INFO 15808 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:13:48.387  INFO 5164 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 5164 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:13:48.387  INFO 5164 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 10:13:48.403  INFO 5164 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 10:13:48 CEST 2017]; root of context hierarchy
+2017-05-13 10:13:48.700  INFO 5164 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:13:48.715  INFO 5164 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.516 seconds (JVM running for 0.96)
+2017-05-13 10:13:48.731  INFO 5164 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37271612: startup date [Sat May 13 10:13:48 CEST 2017]; root of context hierarchy
+2017-05-13 10:13:52.344  INFO 2644 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 2644 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:13:52.359  INFO 2644 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 10:13:52.375  INFO 2644 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:13:52 CEST 2017]; root of context hierarchy
+2017-05-13 10:13:52.766  INFO 2644 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:13:52.766  INFO 2644 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:13:52.766  INFO 2644 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.579 seconds (JVM running for 0.954)
+2017-05-13 10:13:52.766  INFO 2644 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@43bd930a: startup date [Sat May 13 10:13:52 CEST 2017]; root of context hierarchy
+2017-05-13 10:13:52.766  INFO 2644 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:15:16.817  INFO 15376 --- [main] net.siekiera.Accdb2csvApplication        : Starting Accdb2csvApplication on DESKTOP-4R8JTS7 with PID 15376 (C:\Users\Eric\Documents\kody\accdb2csv\target\classes started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 10:15:16.817 DEBUG 15376 --- [main] net.siekiera.Accdb2csvApplication        : Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2017-05-13 10:15:16.817  INFO 15376 --- [main] net.siekiera.Accdb2csvApplication        : No active profile set, falling back to default profiles: default
+2017-05-13 10:15:16.848  INFO 15376 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64f6106c: startup date [Sat May 13 10:15:16 CEST 2017]; root of context hierarchy
+2017-05-13 10:15:17.208  INFO 15376 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:15:17.223  INFO 15376 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:15:17.223 DEBUG 15376 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 10:15:17.223  INFO 15376 --- [main] net.siekiera.Accdb2csvApplication        : Started Accdb2csvApplication in 0.562 seconds (JVM running for 0.802)
+2017-05-13 10:15:17.223  INFO 15376 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@64f6106c: startup date [Sat May 13 10:15:16 CEST 2017]; root of context hierarchy
+2017-05-13 10:15:17.223  INFO 15376 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:16:02.814  INFO 5564 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@553a3d88: startup date [Sat May 13 10:16:02 CEST 2017]; root of context hierarchy
+2017-05-13 10:16:03.169  INFO 5564 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:16:03.175  INFO 5564 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:16:03.175 DEBUG 5564 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 10:16:03.181  INFO 5564 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@553a3d88: startup date [Sat May 13 10:16:02 CEST 2017]; root of context hierarchy
+2017-05-13 10:16:03.182  INFO 5564 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:20:40.477  WARN 13800 --- [main] o.s.boot.SpringApplication               : Error handling failed (ApplicationEventMulticaster not initialized - call 'refresh' before multicasting events via the context: org.springframework.context.annotation.AnnotationConfigApplicationContext@553a3d88: startup date [Thu Jan 01 01:00:00 CET 1970]; root of context hierarchy)
+2017-05-13 10:20:40.477 ERROR 13800 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalArgumentException: Invalid source type class [Ljava.lang.String;
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:146) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.BeanDefinitionLoader.load(BeanDefinitionLoader.java:127) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.load(SpringApplication.java:679) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.prepareContext(SpringApplication.java:365) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+
+2017-05-13 10:21:18.208  INFO 9200 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64f6106c: startup date [Sat May 13 10:21:18 CEST 2017]; root of context hierarchy
+2017-05-13 10:21:18.594  INFO 9200 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:21:18.594  INFO 9200 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:21:18.594 DEBUG 9200 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 10:21:18.594  INFO 9200 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@64f6106c: startup date [Sat May 13 10:21:18 CEST 2017]; root of context hierarchy
+2017-05-13 10:21:18.594  INFO 9200 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 10:47:43.259  INFO 6068 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64f6106c: startup date [Sat May 13 10:47:43 CEST 2017]; root of context hierarchy
+2017-05-13 10:47:43.618  INFO 6068 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 10:47:43.618  INFO 6068 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 10:47:43.618 DEBUG 6068 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 10:47:43.618  INFO 6068 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@64f6106c: startup date [Sat May 13 10:47:43 CEST 2017]; root of context hierarchy
+2017-05-13 10:47:43.618  INFO 6068 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:12:53.922  INFO 14716 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:12:53 CEST 2017]; root of context hierarchy
+2017-05-13 11:12:54.396  INFO 14716 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:12:54.402  INFO 14716 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:13:20.319 DEBUG 14716 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 11:13:20.322  INFO 14716 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:12:53 CEST 2017]; root of context hierarchy
+2017-05-13 11:13:20.323  INFO 14716 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:14:35.174  INFO 15092 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:14:35 CEST 2017]; root of context hierarchy
+2017-05-13 11:14:35.678  INFO 15092 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:14:35.685  INFO 15092 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:14:35.693  INFO 15092 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 11:14:35.702 ERROR 15092 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: org.apache.commons.cli.UnrecognizedOptionException: Unrecognized option: -table=abc
+	at org.apache.commons.cli.DefaultParser.handleUnknownToken(DefaultParser.java:360) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.handleLongOptionWithEqual(DefaultParser.java:440) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.handleShortAndLongOption(DefaultParser.java:569) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.handleToken(DefaultParser.java:243) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:120) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:76) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:60) ~[commons-cli-1.4.jar:1.4]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:37) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 11:14:35.703  INFO 15092 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:14:35 CEST 2017]; root of context hierarchy
+2017-05-13 11:14:35.705  INFO 15092 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:15:29.516  INFO 9328 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:15:29 CEST 2017]; root of context hierarchy
+2017-05-13 11:15:30.032  INFO 9328 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:15:30.038  INFO 9328 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:20:58.689  INFO 9328 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 11:20:58.696 ERROR 9328 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: java.io.FileNotFoundException: given file does not exist: -table
+	at com.healthmarketscience.jackcess.impl.DatabaseImpl.open(DatabaseImpl.java:372) ~[jackcess-2.1.6.jar:na]
+	at com.healthmarketscience.jackcess.DatabaseBuilder.open(DatabaseBuilder.java:252) ~[jackcess-2.1.6.jar:na]
+	at com.healthmarketscience.jackcess.DatabaseBuilder.open(DatabaseBuilder.java:291) ~[jackcess-2.1.6.jar:na]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:46) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 11:20:58.697  INFO 9328 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:15:29 CEST 2017]; root of context hierarchy
+2017-05-13 11:20:58.698  INFO 9328 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:21:19.212  INFO 12188 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:21:19 CEST 2017]; root of context hierarchy
+2017-05-13 11:21:19.573  INFO 12188 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:21:19.579  INFO 12188 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:21:19.594  INFO 12188 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 11:21:19.600 ERROR 12188 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: java.io.FileNotFoundException: given file does not exist: -table
+	at com.healthmarketscience.jackcess.impl.DatabaseImpl.open(DatabaseImpl.java:372) ~[jackcess-2.1.6.jar:na]
+	at com.healthmarketscience.jackcess.DatabaseBuilder.open(DatabaseBuilder.java:252) ~[jackcess-2.1.6.jar:na]
+	at com.healthmarketscience.jackcess.DatabaseBuilder.open(DatabaseBuilder.java:291) ~[jackcess-2.1.6.jar:na]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:45) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 11:21:19.601  INFO 12188 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:21:19 CEST 2017]; root of context hierarchy
+2017-05-13 11:21:19.602  INFO 12188 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:22:03.432  INFO 8044 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:22:03 CEST 2017]; root of context hierarchy
+2017-05-13 11:22:03.791  INFO 8044 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:22:03.797  INFO 8044 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:22:03.803  INFO 8044 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:22:03 CEST 2017]; root of context hierarchy
+2017-05-13 11:22:03.803  INFO 8044 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:25:45.514  INFO 13264 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:25:45 CEST 2017]; root of context hierarchy
+2017-05-13 11:25:46.100  INFO 13264 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:25:46.106  INFO 13264 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:26:08.683  INFO 13264 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 11:25:45 CEST 2017]; root of context hierarchy
+2017-05-13 11:26:08.684  INFO 13264 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:26:35.745  INFO 13352 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:26:35 CEST 2017]; root of context hierarchy
+2017-05-13 11:26:36.164  INFO 13352 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:26:36.175  INFO 13352 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:26:36.181  INFO 13352 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:26:35 CEST 2017]; root of context hierarchy
+2017-05-13 11:26:36.182  INFO 13352 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:34:20.850  INFO 732 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:34:20 CEST 2017]; root of context hierarchy
+2017-05-13 11:34:21.227  INFO 732 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:34:21.233  INFO 732 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:34:21.240  INFO 732 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:34:20 CEST 2017]; root of context hierarchy
+2017-05-13 11:34:21.241  INFO 732 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:35:11.212  INFO 9248 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:35:11 CEST 2017]; root of context hierarchy
+2017-05-13 11:35:11.564  INFO 9248 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:35:11.569  INFO 9248 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:35:11.578  INFO 9248 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:35:11 CEST 2017]; root of context hierarchy
+2017-05-13 11:35:11.580  INFO 9248 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:37:58.041  INFO 4464 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:37:58 CEST 2017]; root of context hierarchy
+2017-05-13 11:37:58.407  INFO 4464 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:37:58.413  INFO 4464 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:37:58.420  INFO 4464 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:37:58 CEST 2017]; root of context hierarchy
+2017-05-13 11:37:58.422  INFO 4464 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 11:45:42.848  INFO 17956 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:45:42 CEST 2017]; root of context hierarchy
+2017-05-13 11:45:43.277  INFO 17956 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 11:45:43.282  INFO 17956 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 11:45:43.288  INFO 17956 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 11:45:42 CEST 2017]; root of context hierarchy
+2017-05-13 11:45:43.288  INFO 17956 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:35:53.455  INFO 13344 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:35:53 CEST 2017]; root of context hierarchy
+2017-05-13 12:35:53.801  INFO 13344 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:35:53.807  INFO 13344 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:35:53.816  INFO 13344 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:35:53 CEST 2017]; root of context hierarchy
+2017-05-13 12:35:53.818  INFO 13344 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:36:58.552  INFO 10180 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:36:58 CEST 2017]; root of context hierarchy
+2017-05-13 12:36:58.907  INFO 10180 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:36:58.916  INFO 10180 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:36:58.923  INFO 10180 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:36:58 CEST 2017]; root of context hierarchy
+2017-05-13 12:36:58.924  INFO 10180 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:37:16.140  INFO 14452 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:37:16 CEST 2017]; root of context hierarchy
+2017-05-13 12:37:16.501  INFO 14452 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:37:16.506  INFO 14452 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:37:16.511  INFO 14452 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:37:16 CEST 2017]; root of context hierarchy
+2017-05-13 12:37:16.513  INFO 14452 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:38:40.084  INFO 852 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:38:40 CEST 2017]; root of context hierarchy
+2017-05-13 12:38:40.444  INFO 852 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:38:40.453  INFO 852 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:38:40.458  INFO 852 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 12:38:40.464 ERROR 852 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: org.apache.commons.cli.UnrecognizedOptionException: Unrecognized option: -database
+	at org.apache.commons.cli.DefaultParser.handleUnknownToken(DefaultParser.java:360) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.handleConcatenatedOptions(DefaultParser.java:702) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.handleShortAndLongOption(DefaultParser.java:533) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.handleToken(DefaultParser.java:243) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:120) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:76) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:60) ~[commons-cli-1.4.jar:1.4]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:57) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 12:38:40.465  INFO 852 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:38:40 CEST 2017]; root of context hierarchy
+2017-05-13 12:38:40.466  INFO 852 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:39:30.212  INFO 11764 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:39:30 CEST 2017]; root of context hierarchy
+2017-05-13 12:39:30.690  INFO 11764 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:39:30.696  INFO 11764 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:41:21.936 DEBUG 11764 --- [main] net.siekiera.CmdLineRunner               : Showing tables.
+2017-05-13 12:41:21.938  INFO 11764 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:39:30 CEST 2017]; root of context hierarchy
+2017-05-13 12:41:21.939  INFO 11764 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:41:34.870  INFO 16316 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:41:34 CEST 2017]; root of context hierarchy
+2017-05-13 12:41:35.347  INFO 16316 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:41:35.353  INFO 16316 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:41:48.227  INFO 16316 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:41:34 CEST 2017]; root of context hierarchy
+2017-05-13 12:41:48.228  INFO 16316 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:43:30.761  INFO 10236 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:43:30 CEST 2017]; root of context hierarchy
+2017-05-13 12:43:31.121  INFO 10236 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:43:31.128  INFO 10236 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:43:31.133 DEBUG 10236 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 12:43:31.135  INFO 10236 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:43:30 CEST 2017]; root of context hierarchy
+2017-05-13 12:43:31.135  INFO 10236 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:43:38.374  INFO 14604 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:43:38 CEST 2017]; root of context hierarchy
+2017-05-13 12:43:38.727  INFO 14604 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:43:38.744  INFO 14604 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:43:38.749 DEBUG 14604 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 12:43:38.751  INFO 14604 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:43:38 CEST 2017]; root of context hierarchy
+2017-05-13 12:43:38.752  INFO 14604 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:43:46.065  INFO 17528 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:43:46 CEST 2017]; root of context hierarchy
+2017-05-13 12:43:46.547  INFO 17528 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:43:46.554  INFO 17528 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:46:56.534 DEBUG 17528 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 12:46:56.537  INFO 17528 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:43:46 CEST 2017]; root of context hierarchy
+2017-05-13 12:46:56.537  INFO 17528 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:47:31.278  INFO 11100 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:47:31 CEST 2017]; root of context hierarchy
+2017-05-13 12:47:31.644  INFO 11100 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:47:31.650  INFO 11100 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:47:31.654 DEBUG 11100 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 12:47:31.655  INFO 11100 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:47:31 CEST 2017]; root of context hierarchy
+2017-05-13 12:47:31.656  INFO 11100 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:50:06.040  INFO 12552 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:50:06 CEST 2017]; root of context hierarchy
+2017-05-13 12:50:06.409  INFO 12552 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:50:06.419  INFO 12552 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:50:06.423  WARN 12552 --- [main] net.siekiera.CmdLineRunner               : Missing parameters! Provided: [Lorg.apache.commons.cli.Option;@48bb62
+2017-05-13 12:50:06.423 DEBUG 12552 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 12:50:06.425  INFO 12552 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:50:06 CEST 2017]; root of context hierarchy
+2017-05-13 12:50:06.426  INFO 12552 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:50:44.493  INFO 12216 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:50:44 CEST 2017]; root of context hierarchy
+2017-05-13 12:50:44.852  INFO 12216 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:50:44.860  INFO 12216 --- [main] net.siekiera.CmdLineRunner               : Running! ...
+2017-05-13 12:50:44.864  WARN 12216 --- [main] net.siekiera.CmdLineRunner               : Missing parameters! Provided: [Lorg.apache.commons.cli.Option;@5524cca1
+2017-05-13 12:50:44.864 DEBUG 12216 --- [main] net.siekiera.CmdLineRunner               : Brak parametr贸w.
+2017-05-13 12:50:44.867  INFO 12216 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:50:44 CEST 2017]; root of context hierarchy
+2017-05-13 12:50:44.868  INFO 12216 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:53:53.583  INFO 15856 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:53:53 CEST 2017]; root of context hierarchy
+2017-05-13 12:53:54.083  INFO 15856 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:53:54.090  INFO 15856 --- [main] net.siekiera.CmdLineRunner               : Start! ...
+2017-05-13 12:53:54.100  INFO 15856 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 12:53:54.107 ERROR 15856 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: org.apache.commons.cli.MissingArgumentException: Missing argument for option: table
+	at org.apache.commons.cli.DefaultParser.checkRequiredArgs(DefaultParser.java:211) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:125) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:76) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:60) ~[commons-cli-1.4.jar:1.4]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:59) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 12:53:54.108  INFO 15856 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:53:53 CEST 2017]; root of context hierarchy
+2017-05-13 12:53:54.109  INFO 15856 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:54:08.870  INFO 14588 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:54:08 CEST 2017]; root of context hierarchy
+2017-05-13 12:54:09.354  INFO 14588 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:54:09.361  INFO 14588 --- [main] net.siekiera.CmdLineRunner               : Start! ...
+2017-05-13 12:54:09.367  INFO 14588 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 12:54:09.375 ERROR 14588 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: org.apache.commons.cli.MissingArgumentException: Missing argument for option: table
+	at org.apache.commons.cli.DefaultParser.checkRequiredArgs(DefaultParser.java:211) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:125) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:76) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:60) ~[commons-cli-1.4.jar:1.4]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:59) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 12:54:09.376  INFO 14588 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:54:08 CEST 2017]; root of context hierarchy
+2017-05-13 12:54:09.377  INFO 14588 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:54:30.512  INFO 2860 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:54:30 CEST 2017]; root of context hierarchy
+2017-05-13 12:54:30.985  INFO 2860 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:54:30.993  INFO 2860 --- [main] net.siekiera.CmdLineRunner               : Start! ...
+2017-05-13 12:54:35.921  INFO 2860 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 12:54:35.930 ERROR 2860 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: org.apache.commons.cli.MissingArgumentException: Missing argument for option: table
+	at org.apache.commons.cli.DefaultParser.checkRequiredArgs(DefaultParser.java:211) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:125) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:76) ~[commons-cli-1.4.jar:1.4]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:60) ~[commons-cli-1.4.jar:1.4]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:59) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 12:54:35.931  INFO 2860 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5c90e579: startup date [Sat May 13 12:54:30 CEST 2017]; root of context hierarchy
+2017-05-13 12:54:35.932  INFO 2860 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 12:56:04.156  INFO 7768 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:56:04 CEST 2017]; root of context hierarchy
+2017-05-13 12:56:04.534  INFO 7768 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 12:56:04.540  INFO 7768 --- [main] net.siekiera.CmdLineRunner               : Start! ...
+2017-05-13 12:56:04.543 ERROR 7768 --- [main] net.siekiera.CmdLineRunner               : Z艂apa艂em wyj膮tek!Missing argument for option: table
+2017-05-13 12:56:04.546  INFO 7768 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 12:56:04 CEST 2017]; root of context hierarchy
+2017-05-13 12:56:04.547  INFO 7768 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 13:09:59.233  INFO 13272 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 13272 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 13:09:59.234 DEBUG 13272 --- [main] net.siekiera.Accdb2csvApplicationTests   : Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2017-05-13 13:09:59.234  INFO 13272 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 13:09:59.258  INFO 13272 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 13:09:59 CEST 2017]; root of context hierarchy
+2017-05-13 13:09:59.570  WARN 13272 --- [main] net.siekiera.CmdLineRunner               : Missing parameters!
+2017-05-13 13:09:59.572  INFO 13272 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 13:09:59.577 ERROR 13272 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) [spring-boot-test-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:117) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:44) [spring-boot-test-autoconfigure-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103) [surefire-booter-2.18.1.jar:2.18.1]
+Caused by: java.lang.NullPointerException: null
+	at java.io.File.<init>(File.java:277) ~[na:1.8.0_121]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:76) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 33 common frames omitted
+
+2017-05-13 13:09:59.579  INFO 13272 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 13:09:59 CEST 2017]; root of context hierarchy
+2017-05-13 13:09:59.611  INFO 13272 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 13272 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 13:09:59.612 DEBUG 13272 --- [main] net.siekiera.Accdb2csvApplicationTests   : Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2017-05-13 13:09:59.612  INFO 13272 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 13:09:59.614  INFO 13272 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@b2c5e07: startup date [Sat May 13 13:09:59 CEST 2017]; root of context hierarchy
+2017-05-13 13:09:59.716  WARN 13272 --- [main] net.siekiera.CmdLineRunner               : Missing parameters!
+2017-05-13 13:09:59.717  INFO 13272 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 13:09:59.719 ERROR 13272 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) [spring-boot-test-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:47) [spring-boot-test-autoconfigure-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103) [surefire-booter-2.18.1.jar:2.18.1]
+Caused by: java.lang.NullPointerException: null
+	at java.io.File.<init>(File.java:277) ~[na:1.8.0_121]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:76) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 31 common frames omitted
+
+2017-05-13 13:09:59.720  INFO 13272 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@b2c5e07: startup date [Sat May 13 13:09:59 CEST 2017]; root of context hierarchy
+2017-05-13 13:09:59.720 ERROR 13272 --- [main] o.s.test.context.TestContextManager      : Caught exception while allowing TestExecutionListener [org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@2698dc7] to prepare test instance [net.siekiera.Accdb2csvApplicationTests@74294adb]
+
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:124) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:83) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener.prepareTestInstance(SpringBootDependencyInjectionTestExecutionListener.java:47) ~[spring-boot-test-autoconfigure-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:230) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:228) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:287) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:289) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:247) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:94) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:191) [spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128) [surefire-junit4-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155) [surefire-booter-2.18.1.jar:2.18.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103) [surefire-booter-2.18.1.jar:2.18.1]
+Caused by: java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:120) ~[spring-boot-test-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:98) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:116) ~[spring-test-4.3.8.RELEASE.jar:4.3.8.RELEASE]
+	... 25 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.io.File.<init>(File.java:277) ~[na:1.8.0_121]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:76) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 31 common frames omitted
+
+2017-05-13 13:10:49.313  INFO 14652 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 13:10:49 CEST 2017]; root of context hierarchy
+2017-05-13 13:10:49.675  INFO 14652 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 13:10:49.698  WARN 14652 --- [main] net.siekiera.CmdLineRunner               : Missing parameters!
+2017-05-13 13:10:49.700  INFO 14652 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 13:10:49.709 ERROR 14652 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: java.lang.NullPointerException: null
+	at java.io.File.<init>(File.java:277) ~[na:1.8.0_121]
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:76) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 13:10:49.710  INFO 14652 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 13:10:49 CEST 2017]; root of context hierarchy
+2017-05-13 13:10:49.710  INFO 14652 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 13:11:43.289  INFO 13344 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 13:11:43 CEST 2017]; root of context hierarchy
+2017-05-13 13:11:43.644  INFO 13344 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 13:11:43.657  WARN 13344 --- [main] net.siekiera.CmdLineRunner               : Missing parameters!
+2017-05-13 13:11:43.660  INFO 13344 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 13:11:43 CEST 2017]; root of context hierarchy
+2017-05-13 13:11:43.661  INFO 13344 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 13:11:52.224  INFO 15148 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 15148 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 13:11:52.226 DEBUG 15148 --- [main] net.siekiera.Accdb2csvApplicationTests   : Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2017-05-13 13:11:52.226  INFO 15148 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 13:11:52.253  INFO 15148 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 13:11:52 CEST 2017]; root of context hierarchy
+2017-05-13 13:11:52.557  WARN 15148 --- [main] net.siekiera.CmdLineRunner               : Missing parameters!
+2017-05-13 13:11:52.559  INFO 15148 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.533 seconds (JVM running for 0.976)
+2017-05-13 13:11:52.584  INFO 15148 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 13:11:52 CEST 2017]; root of context hierarchy
+2017-05-13 13:23:13.062  INFO 14644 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 14644 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 13:23:13.063 DEBUG 14644 --- [main] net.siekiera.Accdb2csvApplicationTests   : Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2017-05-13 13:23:13.063  INFO 14644 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 13:23:13.106  INFO 14644 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 13:23:13 CEST 2017]; root of context hierarchy
+2017-05-13 13:23:13.437  WARN 14644 --- [main] net.siekiera.CmdLineRunner               : Missing db parameter! Exiting.
+2017-05-13 13:23:13.439  INFO 14644 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.569 seconds (JVM running for 1.01)
+2017-05-13 13:23:13.464  INFO 14644 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 13:23:13 CEST 2017]; root of context hierarchy
+2017-05-13 14:51:56.360  INFO 14624 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 14:51:56 CEST 2017]; root of context hierarchy
+2017-05-13 14:51:56.706  INFO 14624 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 14:51:56.716 ERROR 14624 --- [main] net.siekiera.CmdLineRunner               : Exception caught! Missing argument for option: table
+2017-05-13 14:51:56.717  INFO 14624 --- [main] utoConfigurationReportLoggingInitializer : 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-13 14:51:56.724 ERROR 14624 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:779) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:760) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:747) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	at net.siekiera.Accdb2csvApplication.main(Accdb2csvApplication.java:12) [classes/:na]
+Caused by: java.lang.NullPointerException: null
+	at net.siekiera.CmdLineRunner.run(CmdLineRunner.java:43) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:776) ~[spring-boot-1.5.3.RELEASE.jar:1.5.3.RELEASE]
+	... 4 common frames omitted
+
+2017-05-13 14:51:56.726  INFO 14624 --- [main] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 14:51:56 CEST 2017]; root of context hierarchy
+2017-05-13 14:51:56.726  INFO 14624 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 14:53:32.293  INFO 11424 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 14:53:32 CEST 2017]; root of context hierarchy
+2017-05-13 14:53:32.631  INFO 11424 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 14:53:32.638 ERROR 11424 --- [main] net.siekiera.CmdLineRunner               : Exception caught! Missing argument for option: table
+2017-05-13 14:53:32.643  INFO 11424 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 14:53:32 CEST 2017]; root of context hierarchy
+2017-05-13 14:53:32.644  INFO 11424 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 15:10:43.094  INFO 19088 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 15:10:43 CEST 2017]; root of context hierarchy
+2017-05-13 15:10:43.510  INFO 19088 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-05-13 15:10:43.518 ERROR 19088 --- [main] net.siekiera.CmdLineRunner               : Exception caught! Missing argument for option: table
+2017-05-13 15:10:43.519  INFO 19088 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7a30d1e6: startup date [Sat May 13 15:10:43 CEST 2017]; root of context hierarchy
+2017-05-13 15:10:43.522  INFO 19088 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2017-05-13 15:11:39.344  INFO 19252 --- [main] net.siekiera.Accdb2csvApplicationTests   : Starting Accdb2csvApplicationTests on DESKTOP-4R8JTS7 with PID 19252 (started by Eric in C:\Users\Eric\Documents\kody\accdb2csv)
+2017-05-13 15:11:39.345 DEBUG 19252 --- [main] net.siekiera.Accdb2csvApplicationTests   : Running with Spring Boot v1.5.3.RELEASE, Spring v4.3.8.RELEASE
+2017-05-13 15:11:39.345  INFO 19252 --- [main] net.siekiera.Accdb2csvApplicationTests   : No active profile set, falling back to default profiles: default
+2017-05-13 15:11:39.374  INFO 19252 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 15:11:39 CEST 2017]; root of context hierarchy
+2017-05-13 15:11:39.692  INFO 19252 --- [main] net.siekiera.Accdb2csvApplicationTests   : Started Accdb2csvApplicationTests in 0.534 seconds (JVM running for 0.983)
+2017-05-13 15:11:39.720  INFO 19252 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@37883b97: startup date [Sat May 13 15:11:39 CEST 2017]; root of context hierarchy
